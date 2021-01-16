@@ -4,4 +4,5 @@ Setelah 3.5 bulan mengikuti Perkuliahan Sistem Dinamik di Tingkat Magister ITB, 
 
 <p align="center">
 <a href='https://postimg.cc/G9z5pF8W' target='_blank'><img src='https://i.postimg.cc/Prks2Kt5/image.png' border='0' alt='image'/></a>
+<a href='https://postimg.cc/G9z5pF8W' target='_blank'><img src='https://i.postimg.cc/G9z5pF8W/image.png' border='0' alt='image'/></a>
 </p>
