@@ -12,32 +12,44 @@ def Properties_Matriks(A):
     print("\nRank of A:", np.linalg.matrix_rank(A))
 
     # Trace of matrix A
-    print("\nTrace of A:", np.trace(A))
-
+    Trace = np.trace(A) 
+    if Trace.imag == 0:
+        print("\nTrace of A:", np.trace(A).real)
+    else:
+        print("\nTrace of A:", np.trace(A))
+    
     # Determinant of a matrix
-    print("\nDeterminant of A: {:g}".format(np.linalg.det(A)))
-
+    det = np.linalg.det(A)
+    if det.imag == 0:
+        print("\nDeterminant of A: {:g}".format(det.real)) 
+    else:
+        print("\nDeterminant of A: {:g}".format(det))
+        
     # Inverse of matrix A
     try:
         print("\nInverse of A:\n", np.linalg.inv(A))
-    except np.linalg.LinAlgError or np.linalg.det(A)==0:
+    except np.linalg.LinAlgError or (det.real==0 and det.imag==0):
         print('\nA is Singular Matrix Then A doesn\'t have Inverse')
     
     k = 3 # A^3
     # Ganti nilai k untuk mencari nilai A^k
-    print("\nMatrix A raised to power {}, A^{}:\n".format(k,k), np.linalg.matrix_power(A, k), "\n")
-    
+    A_powk = np.linalg.matrix_power(A, k) 
+    print("\nMatrix A raised to power {}, A^{}:\n".format(k,k), A_powk, "\n")
+
     # Eigen Value and Vector Eigen
     eigvals, eigvecs = np.linalg.eig(A)
     for i in range(len(eigvals)):
-        print('nilai eigen {} = '.format(i+1), "{:g}".format(eigvals[i]))
+        if eigvals[i].imag == 0:
+            print('nilai eigen {} = '.format(i+1), "{:g}".format(eigvals[i].real))
+        else:
+            print('nilai eigen {} = '.format(i+1), "{:g}".format(eigvals[i]))
         
     print('\nmatriks vektor eigen = \n', eigvecs)
- 
+
 print('A = ') 
-A = [list(map(int, input().split()))]
+A = [list(map(complex, input().split()))]
 n = len(A[0])
 for i in range(n-1):
-    A.append(list(map(int, input().split())))
-A = np.array(A)
+    A.append(list(map(complex, input().split())))
+A = np.array(A).astype(complex) 
 Properties_Matriks(A)
