@@ -33,7 +33,8 @@ def Properties_Matriks(A):
         print('nilai eigen {} = '.format(i+1), "{:g}".format(eigvals[i]))
         
     print('\nmatriks vektor eigen = \n', eigvecs)
-    
+ 
+print('A = ') 
 A = [list(map(int, input().split()))]
 n = len(A[0])
 for i in range(n-1):
