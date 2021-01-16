@@ -10,11 +10,15 @@ Akan dibagi beberapa bagian dalam Repositori ini, yakni:
 - Invers dari Matriks A,
 - <img src="https://render.githubusercontent.com/render/math?math=\displaystyle A^k"> untuk k suatu bilangan real positif.
 - Nilai Eigen dan Vektor Eigen dari Matriks A.
-- Catatan: Perhatikan Matriks A disini adalah Matriks persegi.
+- Catatan: Perhatikan Matriks A disini adalah Matriks persegi. 
 
+Kemudian diberikan contoh sebagai berikut:
 Contoh 1:
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/GtBc1p4J/Capture.jpg' border='0' alt='Capture'/></a>
 Contoh 2:
 <a href='https://postimg.cc/qzfKfYQQ' target='_blank'><img src='https://i.postimg.cc/Dy0PG3GV/image.png' border='0' alt='image'/></a>
+Contoh 3:
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sxmdPXJY/image.png' border='0' alt='image'/></a>
+
 
 2. A
