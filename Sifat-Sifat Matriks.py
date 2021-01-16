@@ -15,7 +15,7 @@ def Properties_Matriks(A):
     print("\nTrace of A:", np.trace(A))
 
     # Determinant of a matrix
-    print("\nDeterminant of A:", round(np.linalg.det(A),3))
+    print("\nDeterminant of A: {:g}".format(np.linalg.det(A)))
 
     # Inverse of matrix A
     try:
@@ -30,7 +30,7 @@ def Properties_Matriks(A):
     # Eigen Value and Vector Eigen
     eigvals, eigvecs = np.linalg.eig(A)
     for i in range(len(eigvals)):
-        print('nilai eigen {} = '.format(i+1), round(eigvals[i],3))
+        print('nilai eigen {} = '.format(i+1), "{:g}".format(eigvals[i]))
         
     print('\nmatriks vektor eigen = \n', eigvecs)
     
