@@ -4,7 +4,7 @@ Setelah 3.5 bulan mengikuti Perkuliahan Sistem Dinamik di Tingkat Magister ITB, 
 
 Akan dibagi beberapa bagian dalam Repositori ini, yakni:
 1. Sifat-Sifat Matriks
-Pada https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Sifat-Sifat%20Matriks.py 
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Sifat-Sifat%20Matriks.py">Sifat-Sifat Matriks</a> 
 
 Contoh 1:
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/GtBc1p4J/Capture.jpg' border='0' alt='Capture'/></a>
