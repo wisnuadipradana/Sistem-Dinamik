@@ -1,0 +1,2 @@
+# Sistem-Dinamik
+Sistem Dinamik
