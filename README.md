@@ -8,7 +8,7 @@ Akan dibagi beberapa bagian dalam Repositori ini, yakni:
 - Trace atau jumlah semua nilai diagonal utama dari Matriks A,
 - Determinan dari Matriks A,
 - Invers dari Matriks A,
-- \(A^k\) untuk $k$ suatu bilangan real positif.
+- <img src="https://render.githubusercontent.com/render/math?math= A^k"> untuk k suatu bilangan real positif.
 - Nilai Eigen dan Vektor Eigen dari Matriks A.
 - Catatan: Perhatikan Matriks A disini adalah Matriks persegi.
 
