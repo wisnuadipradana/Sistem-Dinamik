@@ -30,7 +30,5 @@ Contoh 3:<br>
 
 
 4. 
-$(".latex1").latex()
-<div class="latex">  
-    \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi  
-</div>
+<math>\sum_{i=0}^\infty 2^{-i}</math>
+<math display="block">\text{geometric series:}\quad \sum_{i=0}^\infty 2^{-i}=2 </math>
