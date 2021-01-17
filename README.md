@@ -30,11 +30,7 @@ Contoh 3:<br>
 
 
 4. Pada Plot quiver menampilkan vektor kecepatan sebagai panah dengan komponen (u, v) pada titik (x, y).
-<a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;A^k" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;A^k" title="A^k" /></a>
-<math>\sum_{i=0}^\infty 2^{-i}</math> <br>
-<math display="block">\text{geometric series:}\quad \sum_{i=0}^\infty 2^{-i}=2 </math> <br>
-<math display="inline">\sum_{i=0}^\infty 2^{-i}</math> <br>
-	{{math|{{radical|1 &minus; ''e''<sup>2</sup>}}}}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" title="{\color{Emerald} A^k} {\color{Red} A^k} {\color{Green} A^k} {\color{Blue} A^k} {\color{Yellow} A^k} {\color{Cyan} A^k} {\color{Magenta} A^k} {\color{Teal} A^k} {\color{Purple} A^k} {\color{DarkBlue} A^k} {\color{DarkRed} A^k} {\color{Orange} A^k}" /></a>
 
 
 
