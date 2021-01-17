@@ -29,9 +29,8 @@ Contoh 3:<br>
 - Parametric Plot 3D
 
 
-4. $(".latex").latex();
-
-
+4. 
+$(".latex1").latex()
 <div class="latex">  
     \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi  
 </div>
