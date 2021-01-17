@@ -27,3 +27,11 @@ Contoh 3:<br>
 3. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Parametric%20Plot.ipynb">Parametric Plot</a> dari suatu persamaan parametrik mendefinisikan sekelompok kuantitas sebagai fungsi dari satu atau lebih variabel independen yang disebut parameter. Persamaan parametrik biasanya digunakan untuk menyatakan koordinat titik-titik yang membentuk objek geometris seperti kurva atau permukaan, dalam hal ini persamaan tersebut secara kolektif disebut representasi parametrik atau parameterisasi (atau dieja sebagai parametrisasi) dari suatu fungsi. Sedangkan Plot Parametrik merupakan kurva/grafik persamaan parametrik pada diagram kartesius. Pada bagian dibagi menjadi dua bagian yakni
 - Parametric Plot 2D
 - Parametric Plot 3D
+
+
+4. $(".latex").latex();
+
+
+<div class="latex">  
+    \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi  
+</div>
