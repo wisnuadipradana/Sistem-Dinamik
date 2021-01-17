@@ -8,7 +8,7 @@ Akan dibagi beberapa bagian dalam Repositori ini, yakni:
 - Trace atau jumlah semua nilai diagonal utama dari Matriks A,
 - Determinan dari Matriks A,
 - Invers dari Matriks A,
-- <img src="https://render.githubusercontent.com/render/math?math=\displaystyle A^k" style= 'background-color: red'> untuk k suatu bilangan real positif.
+- <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{Blue}&space;A^k}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;A^k}" title="{\color{White} A^k}" /></a> untuk k suatu bilangan real positif.
 - Nilai Eigen dan Vektor Eigen dari Matriks A.
 - Catatan: Perhatikan Matriks A disini adalah Matriks persegi. 
 
@@ -29,8 +29,7 @@ Contoh 3:<br>
 - Parametric Plot 3D
 
 
-4. Pada Plot quiver menampilkan vektor kecepatan sebagai panah dengan komponen (u, v) pada titik (x, y).
-<a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" title="{\color{Emerald} A^k} {\color{Red} A^k} {\color{Green} A^k} {\color{Blue} A^k} {\color{Yellow} A^k} {\color{Cyan} A^k} {\color{Magenta} A^k} {\color{Teal} A^k} {\color{Purple} A^k} {\color{DarkBlue} A^k} {\color{DarkRed} A^k} {\color{Orange} A^k}" /></a>
+4. Pada Plot quiver menampilkan vektor kecepatan sebagai panah dengan komponen <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(u,&space;v)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(u,&space;v)}" title="{\color{White} (u, v)}" /></a> pada titik <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(u,&space;v)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(x,&space;y)}" title="{\color{White} (x, y)}".
 
 
 
@@ -38,3 +37,7 @@ Contoh 3:<br>
 
 
 
+
+
+
+<!-- <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;{\color{Emerald}&space;A^k}&space;{\color{Red}&space;A^k}&space;{\color{Green}&space;A^k}&space;{\color{Blue}&space;A^k}&space;{\color{Yellow}&space;A^k}&space;{\color{Cyan}&space;A^k}&space;{\color{Magenta}&space;A^k}&space;{\color{Teal}&space;A^k}&space;{\color{Purple}&space;A^k}&space;{\color{DarkBlue}&space;A^k}&space;{\color{DarkRed}&space;A^k}&space;{\color{Orange}&space;A^k}" title="{\color{Emerald} A^k} {\color{Red} A^k} {\color{Green} A^k} {\color{Blue} A^k} {\color{Yellow} A^k} {\color{Cyan} A^k} {\color{Magenta} A^k} {\color{Teal} A^k} {\color{Purple} A^k} {\color{DarkBlue} A^k} {\color{DarkRed} A^k} {\color{Orange} A^k}" /></a> -->
