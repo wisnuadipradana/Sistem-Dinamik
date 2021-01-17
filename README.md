@@ -32,7 +32,7 @@ Contoh 3:<br>
 4. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Quiver.ipynb">Quiver Plot</a> menampilkan vektor kecepatan sebagai panah dengan komponen <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(u,&space;v)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(u,&space;v)}" title="{\color{White} (u, v)}" /></a> pada titik <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(x,&space;y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(x,&space;y)}" title="{\color{White} (x, y)}" /></a>. Biasanya ada pada Potrait Fasa yang kadang disebut orbit-orbit. Pada bagian dibagi menjadi dua bagian yakni
 - Quiver Plot 2D
 - Quiver Plot 3D
-
+Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Quiver%20Plot.ipynb">klik ini</a> untuk menampilkan.
 
 5. Pada
 
