@@ -29,7 +29,8 @@ Contoh 3:<br>
 - Parametric Plot 3D
 
 
-4. 
+4. Pada Plot quiver menampilkan vektor kecepatan sebagai panah dengan komponen (u, v) pada titik (x, y).
+<a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;A^k" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;A^k" title="A^k" /></a>
 <math>\sum_{i=0}^\infty 2^{-i}</math> <br>
 <math display="block">\text{geometric series:}\quad \sum_{i=0}^\infty 2^{-i}=2 </math> <br>
 <math display="inline">\sum_{i=0}^\infty 2^{-i}</math> <br>
