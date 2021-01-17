@@ -30,5 +30,14 @@ Contoh 3:<br>
 
 
 4. 
-<math>\sum_{i=0}^\infty 2^{-i}</math>
-<math display="block">\text{geometric series:}\quad \sum_{i=0}^\infty 2^{-i}=2 </math>
+<math>\sum_{i=0}^\infty 2^{-i}</math> <br>
+<math display="block">\text{geometric series:}\quad \sum_{i=0}^\infty 2^{-i}=2 </math> <br>
+<math display="inline">\sum_{i=0}^\infty 2^{-i}</math> <br>
+	{{math|{{radical|1 &minus; ''e''<sup>2</sup>}}}}
+
+
+
+
+
+
+
