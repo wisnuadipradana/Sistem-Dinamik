@@ -10,9 +10,8 @@ Akan dibagi beberapa bagian dalam Repositori ini, yakni:
 - Invers dari Matriks A,
 - <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{Blue}&space;A^k}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;A^k}" title="{\color{White} A^k}" /></a> untuk k suatu bilangan real positif,
 - Nilai Eigen dan Vektor Eigen dari Matriks A.
-- Catatan: Perhatikan Matriks A disini adalah Matriks persegi. 
-
-Kemudian diberikan contoh sebagai berikut:<br>
+- Catatan: Perhatikan Matriks A disini adalah Matriks persegi. <br>
+Kemudian diberikan contoh input dan output sebagai berikut:<br>
 Contoh 1:<br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/GtBc1p4J/Capture.jpg' border='0' alt='Capture'/></a><br>
 Contoh 2:<br>
@@ -38,10 +37,10 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 5. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Stream%20Plot.ipynb">Stream Plot</a>, atau streamline plot(Plot Aliran), digunakan untuk menampilkan bidang vektor 2 Dimensi. Mirip seperti Quiver plot, bedanya Quiver menggunakan arah panah dan panjang panah mempengaruhi besar kecilnya aliran pada suatu fungsi. Pada Diagram Fase dapat dikatakan Stream Plot merupakan aliran yang mengikuti arah vektor yang digambarkan pada Potrait Fasa.
 
 
-6. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/3D%20Plot.ipynb">3D Plot</a> ini ditampilkan Plot dari Grafik 3 Dimensi dari suatu fungsi <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a>.
+6. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/3D%20Plot.ipynb">3D Plot</a> ini ditampilkan Plot dari Grafik 3 Dimensi dari suatu fungsi <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> yang mana hanya terbatas pada suatu fungsi bentuk <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> saja.
 
 
-7. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial baik Linier maupun Non Linier. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
+7. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial baik Linier maupun Non Linier. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
 - Quiver Plot (orbit dalam bentuk arah panah),
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit),
 - Nullcline (jika diketahui dengan mencari manual),
@@ -50,6 +49,10 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 - Jacobian dari masing-masing Titik kesetimbangan,
 - Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.
 
+
+8. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
+- Quiver Plot (orbit dalam bentuk arah panah),
+- Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit).
 
 
 
