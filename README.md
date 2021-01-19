@@ -49,6 +49,7 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 - Sifat-sifat pada sistem dinamik dari masing-masing Titik Kesetimbangannya berdasarkan Nilai Eigennya,
 - Jacobian dari masing-masing Titik kesetimbangan,
 - Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.
+Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">klik ini</a> untuk menampilkan.
 
 
 8. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
