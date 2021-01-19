@@ -55,7 +55,7 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 8. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
 - Quiver Plot (orbit dalam bentuk arah panah),
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit).
-
+Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">klik ini</a> untuk menampilkan.
 
 
 
