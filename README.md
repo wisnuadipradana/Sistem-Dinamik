@@ -48,7 +48,7 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 - Titik kesetimbangan,
 - Sifat-sifat pada sistem dinamik dari masing-masing Titik Kesetimbangannya berdasarkan Nilai Eigennya,
 - Jacobian dari masing-masing Titik kesetimbangan,
-- Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.
+- Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">klik ini</a> untuk menampilkan.
 
 
