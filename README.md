@@ -3,7 +3,9 @@
 Setelah 3.5 bulan mengikuti Perkuliahan Sistem Dinamik di Tingkat Magister ITB, karena saya belum mahir Matlab saya menggunakan full pemrogaman dengan Python 3. Sehingga pada Repository ini saya akan membagikan apa yang sudah saya buat untuk menyelesaikan Tugas-tugas yang telah saya selesaikan dengan menggunakan Python ini.
 
 Akan dibagi beberapa bagian dalam Repositori ini, yakni:
-1. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Sifat-Sifat%20Matriks.py">Sifat-Sifat Matriks</a> ditampilkan hasil-hasil mengenai beberapa hal sebagai berikut:
+<details>
+ <summary><strong>1. Sifat-Sifat Matriks</strong></summary>
+ Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Sifat-Sifat%20Matriks.py">Sifat-Sifat Matriks</a> ditampilkan hasil-hasil mengenai beberapa hal sebagai berikut:
 - Rank dari Matriks A,
 - Trace atau jumlah semua nilai diagonal utama dari Matriks A,
 - Determinan dari Matriks A,
@@ -18,30 +20,42 @@ Contoh 2:<br>
 <a href='https://postimg.cc/qzfKfYQQ' target='_blank'><img src='https://i.postimg.cc/Dy0PG3GV/image.png' border='0' alt='Capture'/></a><br>
 Contoh 3:<br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sxmdPXJY/image.png' border='0' alt='Capture'/></a>
+</details>
 
+<details>
+ <summary><strong>2. Countour Plot</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Contour%20Plot.ipynb">Contour Plot</a> atau Plot Garis Kontur (juga isoline, isopleth, atau isarithm) dari fungsi dua variabel adalah kurva di mana fungsi tersebut memiliki nilai konstan, sehingga kurva tersebut menggabungkan titik-titik dengan nilai yang sama. Ini adalah bagian bidang dari grafik tiga dimensi dari fungsi f(x,y) yang sejajar dengan bidang (x,y). Dalam kartografi, garis kontur (sering disebut "kontur") menggabungkan titik-titik dengan ketinggian yang sama(ketinggian) di atas permukaan tertentu, seperti permukaan laut rata-rata.
+</details>
 
-2. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Contour%20Plot.ipynb">Contour Plot</a> atau Plot Garis Kontur (juga isoline, isopleth, atau isarithm) dari fungsi dua variabel adalah kurva di mana fungsi tersebut memiliki nilai konstan, sehingga kurva tersebut menggabungkan titik-titik dengan nilai yang sama. Ini adalah bagian bidang dari grafik tiga dimensi dari fungsi f(x,y) yang sejajar dengan bidang (x,y). Dalam kartografi, garis kontur (sering disebut "kontur") menggabungkan titik-titik dengan ketinggian yang sama(ketinggian) di atas permukaan tertentu, seperti permukaan laut rata-rata.
-
-
-3. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Parametric%20Plot.ipynb">Parametric Plot</a> dari suatu persamaan parametrik mendefinisikan sekelompok kuantitas sebagai fungsi dari satu atau lebih variabel independen yang disebut parameter. Persamaan parametrik biasanya digunakan untuk menyatakan koordinat titik-titik yang membentuk objek geometris seperti kurva atau permukaan, dalam hal ini persamaan tersebut secara kolektif disebut representasi parametrik atau parameterisasi (atau dieja sebagai parametrisasi) dari suatu fungsi. Sedangkan Plot Parametrik merupakan kurva/grafik persamaan parametrik pada diagram kartesius. Pada bagian dibagi menjadi dua bagian yakni
+<details>
+ <summary><strong>3. Parametric Plot</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Parametric%20Plot.ipynb">Parametric Plot</a> dari suatu persamaan parametrik mendefinisikan sekelompok kuantitas sebagai fungsi dari satu atau lebih variabel independen yang disebut parameter. Persamaan parametrik biasanya digunakan untuk menyatakan koordinat titik-titik yang membentuk objek geometris seperti kurva atau permukaan, dalam hal ini persamaan tersebut secara kolektif disebut representasi parametrik atau parameterisasi (atau dieja sebagai parametrisasi) dari suatu fungsi. Sedangkan Plot Parametrik merupakan kurva/grafik persamaan parametrik pada diagram kartesius. Pada bagian dibagi menjadi dua bagian yakni
 - Parametric Plot 2D,
 - Parametric Plot 3D.
+</details>
 
-
-4. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Quiver%20Plot.ipynb">Quiver Plot</a> menampilkan vektor kecepatan sebagai panah dengan komponen <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(u,&space;v)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(u,&space;v)}" title="{\color{White} (u, v)}" /></a> pada titik <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(x,&space;y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(x,&space;y)}" title="{\color{White} (x, y)}" /></a>. Biasanya ada pada Potrait Fasa yang kadang disebut orbit-orbit. Pada bagian dibagi menjadi dua bagian yakni
+<details>
+ <summary><strong>4. Quiver Plot</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Quiver%20Plot.ipynb">Quiver Plot</a> menampilkan vektor kecepatan sebagai panah dengan komponen <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(u,&space;v)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(u,&space;v)}" title="{\color{White} (u, v)}" /></a> pada titik <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;(x,&space;y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;(x,&space;y)}" title="{\color{White} (x, y)}" /></a>. Biasanya ada pada Potrait Fasa yang kadang disebut orbit-orbit. Pada bagian dibagi menjadi dua bagian yakni
 - Quiver Plot 2D,
 - Quiver Plot 3D. <br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Quiver%20Plot.ipynb">klik ini</a> untuk menampilkan.
+</details>
 
+<details>
+ <summary><strong>5. Stream Plot</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Stream%20Plot.ipynb">Stream Plot</a>, atau streamline plot(Plot Aliran), digunakan untuk menampilkan bidang vektor 2 Dimensi. Mirip seperti Quiver plot, bedanya Quiver menggunakan arah panah dan panjang panah mempengaruhi besar kecilnya aliran pada suatu fungsi. Pada Diagram Fase dapat dikatakan Stream Plot merupakan aliran yang mengikuti arah vektor yang digambarkan pada Potrait Fasa.
+</details>
 
-5. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Stream%20Plot.ipynb">Stream Plot</a>, atau streamline plot(Plot Aliran), digunakan untuk menampilkan bidang vektor 2 Dimensi. Mirip seperti Quiver plot, bedanya Quiver menggunakan arah panah dan panjang panah mempengaruhi besar kecilnya aliran pada suatu fungsi. Pada Diagram Fase dapat dikatakan Stream Plot merupakan aliran yang mengikuti arah vektor yang digambarkan pada Potrait Fasa.
-
-
-6. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/3D%20Plot.ipynb">3D Plot</a> ini ditampilkan Plot dari Grafik 3 Dimensi dari suatu fungsi <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> yang mana hanya terbatas pada suatu fungsi bentuk <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> saja.<br>
+<details>
+ <summary><strong>6. 3D Plot</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/3D%20Plot.ipynb">3D Plot</a> ini ditampilkan Plot dari Grafik 3 Dimensi dari suatu fungsi <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> yang mana hanya terbatas pada suatu fungsi bentuk <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} z=f(x,y)}" /></a> saja.<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/3D%20Plot.ipynb">klik ini</a> untuk menampilkan.
+</details>
 
-
-7. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial baik Linier maupun Non Linier. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
+<details>
+ <summary><strong>7. Potret Fasa</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial baik Linier maupun Non Linier. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
 - Quiver Plot (orbit dalam bentuk arah panah),
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit),
 - Nullcline (jika diketahui dengan mencari manual),
@@ -50,12 +64,15 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 - Jacobian dari masing-masing Titik kesetimbangan,
 - Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">klik ini</a> untuk menampilkan.
+</details>
 
-
-8. Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
+<details>
+ <summary><strong>8. Potret Fasa Polar</strong></summary>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:
 - Quiver Plot (orbit dalam bentuk arah panah),
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit).<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb?flush_cache=false">klik ini</a> untuk menampilkan.
+</details>
 
 
 
