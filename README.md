@@ -23,7 +23,7 @@ Contoh 3:<br>
 </details>
 
 <details>
- <summary><strong>2. Countour Plot</strong></summary>
+ <summary><strong>2. Contour Plot</strong></summary>
 Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Contour%20Plot.ipynb">Contour Plot</a> atau Plot Garis Kontur (juga isoline, isopleth, atau isarithm) dari fungsi dua variabel adalah kurva di mana fungsi tersebut memiliki nilai konstan, sehingga kurva tersebut menggabungkan titik-titik dengan nilai yang sama. Ini adalah bagian bidang dari grafik tiga dimensi dari fungsi f(x,y) yang sejajar dengan bidang (x,y). Dalam kartografi, garis kontur (sering disebut "kontur") menggabungkan titik-titik dengan ketinggian yang sama(ketinggian) di atas permukaan tertentu, seperti permukaan laut rata-rata.
 </details>
 
