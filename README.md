@@ -55,20 +55,20 @@ Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href=
 
 <details>
  <summary><strong>7. Potret Fasa</strong></summary>
-Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial baik Linier maupun Non Linier. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:</br>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">Potret Fasa</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Diferensial baik Linier maupun Non Linier yang terbatas pada dua fungsi <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;z=f(x,y)}" title="{\color{White} f(x,y)}" /></a> dan <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;{\color{White}&space;z=f(x,y)}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;{\color{White}&space;g(x,y)}" title="{\color{White} z=f(x,y)}" /></a> saja. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:</br>
 - Quiver Plot (orbit dalam bentuk arah panah),</br>
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit),</br>
 - Nullcline (jika diketahui dengan mencari manual),</br>
 - Titik kesetimbangan,</br>
 - Sifat-sifat pada sistem dinamik dari masing-masing Titik Kesetimbangannya berdasarkan Nilai Eigennya,</br>
 - Jacobian dari masing-masing Titik kesetimbangan,</br>
-- Jika sistem Persamaan Differensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.<br>
+- Jika sistem Persamaan Diferensial tersebut merupakan sistem predator prey, ditampilkan juga Dynamics in time dan juga Phase space nya.<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa.ipynb">klik ini</a> untuk menampilkan.
 </details>
 
 <details>
  <summary><strong>8. Potret Fasa Polar</strong></summary>
-Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Differensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:</br>
+Pada <a href="https://github.com/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb">Potret Fasa Polar</a> ini ditampilkan Potret Fasa(Potrait Phase) Lengkap dengan orbit menggunakan Quiver Plot sekaligus Stream Plot dari suatu sistem Persamaan Diferensial dari fungsi-fungsi polar. Ada beberapa bagian yang ditampilkan dari hasil plot ini diantaranya:</br>
 - Quiver Plot (orbit dalam bentuk arah panah),</br>
 - Stream Plot (Orbit dalam bentuk garis dengan arah mengikuti orbit).<br>
 Jika file tidak mau terbuka "Sorry, something went wrong. Reload?" coba <a href="https://nbviewer.jupyter.org/github/wisnuadipradana/Sistem-Dinamik/blob/main/Potret%20Fasa%20Polar.ipynb?flush_cache=false">klik ini</a> untuk menampilkan.
